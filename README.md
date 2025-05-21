@@ -1,4 +1,4 @@
-# 🛠️ Password Reset Ticket using osTicket
+# 🛠️ Password Reset Using osTicket
 
 ## 📝 Project Overview
 This project shows how to simulate and resolve a password reset ticket using osTicket, an open-source support ticketing system. It’s designed to reflect real-world IT support scenarios.
