@@ -76,5 +76,5 @@ This lab simulates a common support scenario where a domain user is locked out. 
 
 ## 📬 Contact
 
-Open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/kevindeonbrown)!
+Feel Free to reach out on [LinkedIn](https://www.linkedin.com/in/kevindeonbrown)!
 
